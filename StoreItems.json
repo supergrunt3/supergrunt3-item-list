@@ -1700,7 +1700,7 @@
 	},
 	{
 		"abr": "simplemeal",
-		"price": 250,
+		"price": 25,
 		"category": "Meals",
 		"defname": "MealSimple"
 	},
