@@ -106,11 +106,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
@@ -136,8 +131,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "inspiration",
-		"price": 150,
+		"abr": "randominspire",
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
