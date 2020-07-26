@@ -87,19 +87,19 @@
 	{
 		"abr": "archotecharm",
 		"price": 4667,
-		"category": "Artificial",
+		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
 		"price": 4667,
-		"category": "Artificial",
+		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
 		"price": 4667,
-		"category": "Artificial",
+		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
 	{
@@ -2233,6 +2233,12 @@
 		"defname": "Fox_Red"
 	},
 	{
+		"abr": "reprocessorstomach",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "ReprocessorStomach"
+	},		
+	{
 		"abr": "resurrectormechserum",
 		"price": 2833,
 		"category": "Items",
@@ -2275,16 +2281,46 @@
 		"defname": "RoyalBed"
 	},
 	{
+		"abr": "royalrobe",
+		"price": 157,
+		"category": "Apparel",
+		"defname": "Apparel_RoyalRobe"
+	},
+	{
+		"abr": "royalvest",
+		"price": 168,
+		"category": "Apparel",
+		"defname": "Apparel_RoyalVest"
+	},		
+	{
+		"abr": "ruffleshirt",
+		"price": 166,
+		"category": "Apparel",
+		"defname": "Apparel_RuffleShirt"
+	},	
+	{
 		"abr": "sandstoneblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksSandstone"
 	},
 	{
-		"abr": "sculptor'stable",
-		"price": 425,
-		"category": "Production",
-		"defname": "TableSculpting"
+		"abr": "sheep",
+		"price": 350,
+		"category": "Animal",
+		"defname": "Sheep"
+	},
+	{
+		"abr": "sheepmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Sheep"
+	},
+	{
+		"abr": "sheepwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "Woolsheep"
 	},
 	{
 		"abr": "shelf",
@@ -2437,6 +2473,12 @@
 		"defname": "TableStonecutter"
 	},
 	{
+		"abr": "stoneskingland",
+		"price": 3200,
+		"category": "Bionic",
+		"defname": "StoneskinGland"
+	},		
+	{
 		"abr": "stool",
 		"price": 86,
 		"category": "Furniture",
@@ -2478,6 +2520,96 @@
 		"category": "Furniture",
 		"defname": "Table3x3c"
 	},
+	{
+		"abr": "techprint(artificialmetabolism)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(ArtificialMetabolism)"
+	},	
+	{
+		"abr": "techprint(brainwiring)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint(BrainWiring)"
+	},
+	{
+		"abr": "techprint(cataphractarmor)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint(CataphractArmor)"
+	},
+	{
+		"abr": "techprint(circadianinfluence)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(CircadianInfluence)"
+	},	
+	{
+		"abr": "techprint(circadianinfluence)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(CircadianInfluence)"
+	},	
+	{
+		"abr": "techprint(circadianinfluence)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(CircadianInfluence)"
+	},	
+	{
+		"abr": "techprint(circadianinfluence)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(CircadianInfluence)"
+	},	
+	{
+		"abr": "techprint(compactweaponry)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint(CompactWeaponry)"
+	},
+	{
+		"abr": "techprint(fleshshaping)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(FleshShaping)"
+	},
+	{
+		"abr": "techprint(healingfactors)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(HealingFactors)"
+	},	
+	{
+		"abr": "techprint(molecularanalysis)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(MolecularAnalysis)"
+	},	
+	{
+		"abr": "techprint(neuralcomputation)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(NeuralComputation)"
+	},	
+	{
+		"abr": "techprint(poisonsynthesis)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint(PoisonSynthesis)"
+	},		
+	{
+		"abr": "techprint(skinhardening)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(SkinHardening)"
+	},		
+	{
+		"abr": "techprint(specializedlimbs)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint(SpecializedLimbs)"
+	},				
 	{
 		"abr": "techprofsubpersonacore",
 		"price": 1667,
@@ -2527,6 +2659,12 @@
 		"defname": "ToolCabinet"
 	},
 	{
+		"abr": "tophat",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "Apparel_Tophat"
+	},		
+	{
 		"abr": "tornadogenerator",
 		"price": 1333,
 		"category": "Ranged weapons",
@@ -2550,6 +2688,12 @@
 		"category": "Meat",
 		"defname": "Meat_Tortoise"
 	},
+	{
+		"abr": "toughskingland",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "toughskinGland"
+	},					
 	{
 		"abr": "tribalheaddress",
 		"price": 203,
@@ -2605,6 +2749,12 @@
 		"defname": "Meat_Turkey"
 	},
 	{
+		"abr": "unstablepowercell",
+		"price": 667,
+		"category": "Special",
+		"defname": "UnstablePowerCell"
+	},		
+	{
 		"abr": "uranium",
 		"price": 10,
 		"category": "Raw resources",
@@ -2622,6 +2772,18 @@
 		"category": "Meat",
 		"defname": "Meat_Deer"
 	},
+	{
+		"abr": "venomfangs",
+		"price": 592,
+		"category": "Prosthetic",
+		"defname": "VenomFangs"
+	},	
+	{
+		"abr": "venomtalon",
+		"price": 592,
+		"category": "Prosthetic",
+		"defname": "VenomTalon"
+	},			
 	{
 		"abr": "vitalsmonitor",
 		"price": 358,
@@ -2659,6 +2821,12 @@
 		"defname": "Meat_Warg"
 	},
 	{
+		"abr": "warhammer",
+		"price": 608,
+		"category": "Persona Weapons",
+		"defname": "MeleeWeapon_Warhammer"
+	},		
+	{
 		"abr": "wildboar",
 		"price": 333,
 		"category": "Animal",
@@ -2689,6 +2857,18 @@
 		"defname": "Wort"
 	},
 	{
+		"abr": "yak",
+		"price": 533,
+		"category": "Animal",
+		"defname": "Yak"
+	},
+	{
+		"abr": "yakmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Yak"
+	},		
+	{
 		"abr": "yayo",
 		"price": 35,
 		"category": "Drugs",
@@ -2706,6 +2886,12 @@
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
 	}
+	{
+		"abr": "zeushammer",
+		"price": 3333,
+		"category": "Persona Weapons",
+		"defname": "MeleeWeapon_Zeushammer"
+	},		
 	],
 	"total": 348
 }
