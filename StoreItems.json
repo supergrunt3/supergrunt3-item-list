@@ -2522,6 +2522,96 @@
 		"defname": "Table3x3c"
 	},
 	{
+		"abr": "techprint(artificialmetabolism)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(ArtificialMetabolism)"
+	},	
+	{
+		"abr": "techprint(brainwiring)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint(BrainWiring)"
+	},
+	{
+		"abr": "techprint(cataphractarmor)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint(CataphractArmor)"
+	},
+	{
+		"abr": "techprint(circadianinfluence)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(CircadianInfluence)"
+	},	
+	{
+		"abr": "techprint(circadianinfluence)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(CircadianInfluence)"
+	},	
+	{
+		"abr": "techprint(circadianinfluence)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(CircadianInfluence)"
+	},	
+	{
+		"abr": "techprint(circadianinfluence)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(CircadianInfluence)"
+	},	
+	{
+		"abr": "techprint(compactweaponry)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint(CompactWeaponry)"
+	},
+	{
+		"abr": "techprint(fleshshaping)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(FleshShaping)"
+	},
+	{
+		"abr": "techprint(healingfactors)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(HealingFactors)"
+	},	
+	{
+		"abr": "techprint(molecularanalysis)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(MolecularAnalysis)"
+	},	
+	{
+		"abr": "techprint(neuralcomputation)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(NeuralComputation)"
+	},	
+	{
+		"abr": "techprint(poisonsynthesis)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint(PoisonSynthesis)"
+	},		
+	{
+		"abr": "techprint(skinhardening)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint(SkinHardening)"
+	},		
+	{
+		"abr": "techprint(specializedlimbs)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint(SpecializedLimbs)"
+	},				
+	{
 		"abr": "techprofsubpersonacore",
 		"price": 1667,
 		"category": "Items",
@@ -2570,6 +2660,12 @@
 		"defname": "ToolCabinet"
 	},
 	{
+		"abr": "tophat",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "Apparel_Tophat"
+	},		
+	{
 		"abr": "tornadogenerator",
 		"price": 1333,
 		"category": "Ranged weapons",
@@ -2593,6 +2689,12 @@
 		"category": "Meat",
 		"defname": "Meat_Tortoise"
 	},
+	{
+		"abr": "toughskingland",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "toughskinGland"
+	},					
 	{
 		"abr": "tribalheaddress",
 		"price": 203,
@@ -2647,6 +2749,12 @@
 		"category": "Meat",
 		"defname": "Meat_Turkey"
 	},
+	{
+		"abr": "unstablepowercell",
+		"price": 667,
+		"category": "Special",
+		"defname": "UnstablePowerCell"
+	},		
 	{
 		"abr": "uranium",
 		"price": 10,
