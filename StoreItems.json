@@ -2774,6 +2774,18 @@
 		"defname": "Meat_Deer"
 	},
 	{
+		"abr": "venomfangs",
+		"price": 592,
+		"category": "Prosthetic",
+		"defname": "VenomFangs"
+	},	
+	{
+		"abr": "venomtalon",
+		"price": 592,
+		"category": "Prosthetic",
+		"defname": "VenomTalon"
+	},			
+	{
 		"abr": "vitalsmonitor",
 		"price": 358,
 		"category": "Misc",
@@ -2809,6 +2821,12 @@
 		"category": "Meat",
 		"defname": "Meat_Warg"
 	},
+	{
+		"abr": "warhammer",
+		"price": 608,
+		"category": "Persona Weapons",
+		"defname": "MeleeWeapon_Warhammer"
+	},		
 	{
 		"abr": "wildboar",
 		"price": 333,
