@@ -2858,6 +2858,18 @@
 		"defname": "Wort"
 	},
 	{
+		"abr": "yak",
+		"price": 533,
+		"category": "Animal",
+		"defname": "Yak"
+	},
+	{
+		"abr": "yakmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Yak"
+	},		
+	{
 		"abr": "yayo",
 		"price": 35,
 		"category": "Drugs",
@@ -2875,6 +2887,12 @@
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
 	}
+	{
+		"abr": "zeushammer",
+		"price": 3333,
+		"category": "Melee Weapons",
+		"defname": "MeleeWeapon_Zeushammer"
+	}		
 	],
 	"total": 348
 }
