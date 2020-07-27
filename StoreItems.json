@@ -2172,6 +2172,7 @@
 		"category": "Psytrainers",
 		"defname": "Psytrainer(WaterSkip)"
 	},	
+		
 	{
 		"abr": "pumpshotgun",
 		"price": 425,
@@ -2209,6 +2210,18 @@
 		"defname": "RawFungus"
 	},
 	{
+		"abr": "reconarmor",
+		"price": 2567,
+		"category": "Apparel",
+		"defname": "Apparel_ReconArmor"
+	},
+	{
+		"abr": "reconhelmet",
+		"price": 875,
+		"category": "Headgear",
+		"defname": "Apparel_ReconArmorHelmet"
+	},			
+	{
 		"abr": "recurvebow",
 		"price": 110,
 		"category": "Ranged weapons",
@@ -2220,6 +2233,12 @@
 		"category": "Animal",
 		"defname": "Fox_Red"
 	},
+	{
+		"abr": "reprocessorstomach",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "ReprocessorStomach"
+	},		
 	{
 		"abr": "resurrectormechserum",
 		"price": 2833,
@@ -2262,6 +2281,24 @@
 		"category": "Furniture",
 		"defname": "RoyalBed"
 	},
+	{
+		"abr": "royalrobe",
+		"price": 157,
+		"category": "Apparel",
+		"defname": "Apparel_RoyalRobe"
+	},
+	{
+		"abr": "royalvest",
+		"price": 168,
+		"category": "Apparel",
+		"defname": "Apparel_RoyalVest"
+	},		
+	{
+		"abr": "ruffleshirt",
+		"price": 166,
+		"category": "Apparel",
+		"defname": "Apparel_RuffleShirt"
+	},	
 	{
 		"abr": "sandstoneblocks",
 		"price": 2,
