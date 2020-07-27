@@ -2299,17 +2299,29 @@
 		"category": "Apparel",
 		"defname": "Apparel_RuffleShirt"
 	},	
-	{
+{
 		"abr": "sandstoneblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksSandstone"
 	},
 	{
-		"abr": "sculptor'stable",
-		"price": 425,
-		"category": "Production",
-		"defname": "TableSculpting"
+		"abr": "sheep",
+		"price": 350,
+		"category": "Animal",
+		"defname": "Sheep"
+	},
+	{
+		"abr": "sheepmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Sheep"
+	},
+	{
+		"abr": "sheepwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "Woolsheep"
 	},
 	{
 		"abr": "shelf",
@@ -2461,6 +2473,12 @@
 		"category": "Production",
 		"defname": "TableStonecutter"
 	},
+	{
+		"abr": "stoneskingland",
+		"price": 3200,
+		"category": "Bionic",
+		"defname": "StoneskinGland"
+	},		
 	{
 		"abr": "stool",
 		"price": 86,
